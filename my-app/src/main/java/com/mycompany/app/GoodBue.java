@@ -2,7 +2,7 @@ package com.mycompany.app;
 
 /**
  * Goodbue world!
- *
+ * This code represents my first experience with Java
  */
 public class App 
 {
