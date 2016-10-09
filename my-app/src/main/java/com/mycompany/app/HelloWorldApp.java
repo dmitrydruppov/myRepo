@@ -2,9 +2,9 @@ package com.mycompany.app;
 
 /**
  * Hello world!
- *
+ * This code represnt my first experience with Java
  */
-public class App 
+public class HellWorldApp 
 {
     public static void main( String[] args )
     {
